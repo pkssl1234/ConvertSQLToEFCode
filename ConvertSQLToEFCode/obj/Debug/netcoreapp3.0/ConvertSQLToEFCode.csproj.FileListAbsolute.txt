@@ -1,0 +1,11 @@
+C:\Users\Randoph.Chou\source\repos\ConvertSQLToEFCode\bin\Debug\netcoreapp3.0\ConvertSQLToEFCode.exe
+C:\Users\Randoph.Chou\source\repos\ConvertSQLToEFCode\bin\Debug\netcoreapp3.0\ConvertSQLToEFCode.deps.json
+C:\Users\Randoph.Chou\source\repos\ConvertSQLToEFCode\bin\Debug\netcoreapp3.0\ConvertSQLToEFCode.runtimeconfig.json
+C:\Users\Randoph.Chou\source\repos\ConvertSQLToEFCode\bin\Debug\netcoreapp3.0\ConvertSQLToEFCode.runtimeconfig.dev.json
+C:\Users\Randoph.Chou\source\repos\ConvertSQLToEFCode\bin\Debug\netcoreapp3.0\ConvertSQLToEFCode.dll
+C:\Users\Randoph.Chou\source\repos\ConvertSQLToEFCode\bin\Debug\netcoreapp3.0\ConvertSQLToEFCode.pdb
+C:\Users\Randoph.Chou\source\repos\ConvertSQLToEFCode\obj\Debug\netcoreapp3.0\ConvertSQLToEFCode.csprojAssemblyReference.cache
+C:\Users\Randoph.Chou\source\repos\ConvertSQLToEFCode\obj\Debug\netcoreapp3.0\ConvertSQLToEFCode.AssemblyInfoInputs.cache
+C:\Users\Randoph.Chou\source\repos\ConvertSQLToEFCode\obj\Debug\netcoreapp3.0\ConvertSQLToEFCode.AssemblyInfo.cs
+C:\Users\Randoph.Chou\source\repos\ConvertSQLToEFCode\obj\Debug\netcoreapp3.0\ConvertSQLToEFCode.dll
+C:\Users\Randoph.Chou\source\repos\ConvertSQLToEFCode\obj\Debug\netcoreapp3.0\ConvertSQLToEFCode.pdb
